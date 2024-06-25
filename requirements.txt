@@ -1,0 +1,5 @@
+ray[serve]
+requests
+xgboost
+pandas
+starlette
